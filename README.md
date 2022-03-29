@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Fatih Ayar</h1>
 <h3 align="center"></h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/fatihayar/">
     <img align="center" 
