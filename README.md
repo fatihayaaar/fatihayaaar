@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Fatih Ayar</h1>
+<h1 align="center"> Hi, I'm Fayar</h1>
 <h3 align="center"></h3>
 
 <h3 align="center">Connect with me:</h3>
