@@ -14,4 +14,5 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Fatih Ayar" height="30" width="40" /></a>
 </p>
-<img src="https://user-images.githubusercontent.com/18555532/160697033-980505a1-5fc0-46d8-b0d3-78042b18a7bb.jpg" />
+<br />
+<img src="https://user-images.githubusercontent.com/18555532/160697236-4e3c6f59-449f-49c9-96b0-dda73be18928.png" />
