@@ -1,5 +1,4 @@
 
-<img src="https://user-images.githubusercontent.com/18555532/160697236-4e3c6f59-449f-49c9-96b0-dda73be18928.png" />
 <h3 align="center">Software Developer</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/fatihayar/">
